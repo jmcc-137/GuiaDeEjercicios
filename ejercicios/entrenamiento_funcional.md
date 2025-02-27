@@ -13,3 +13,7 @@ El entrenamiento funcional son ejercicios que imitan los movimientos cotidianos 
 1. Comienza con un calentamiento de 5-10 minutos.
 2. Realiza ejercicios como sentadillas, planchas, o levantamientos funcionales durante 30-45 minutos.
 3. Termina con un enfriamiento y estiramientos.
+
+## Consejos
+- Enfócate en la calidad del movimiento.
+- Usa equipamiento como bandas de resistencia o pesas rusas.

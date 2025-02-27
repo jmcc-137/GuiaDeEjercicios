@@ -7,3 +7,8 @@ Los ejercicios de fuerza son actividades que involucran la contracción muscular
 - Aumenta la masa muscular.
 - Mejora la densidad ósea.
 - Incrementa el metabolismo basal.
+
+## Instrucciones
+1. Comienza con un calentamiento de 5-10 minutos.
+2. Realiza ejercicios como levantamiento de pesas, sentadillas, o flexiones durante 30-45 minutos.
+3. Termina con un enfriamiento y estiramientos.
